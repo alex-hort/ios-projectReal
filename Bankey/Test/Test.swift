@@ -1,0 +1,16 @@
+//
+//  Test.swift
+//  Test
+//
+//  Created by Alexis Horteales Espinosa on 25/04/25.
+//
+
+import Testing
+
+struct Test {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}

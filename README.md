@@ -1,5 +1,2 @@
 # ios-practice of Alex
-Practice and learn
-Apoco si?
-Estoy aprendiendo un poco de esto
-Moenia es la musica que escucho ahora mismo, Morir tres veces
+-The first part of this repository is a project that try to simulate a UI of Bankey all this is following the course, I use UIKit to do the most part of the app and were testing with UICTest, to check that all functions are work of the best way.
